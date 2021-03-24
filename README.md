@@ -2,6 +2,6 @@
 
 Criação de tela de login usando Python com PyQt5 e banco de dados SQLite.
  
-Onde o usuario cadastra o login e senha e esse usuario ficará salvo no banco de dados, assim conseguirá logar no sistema.
+O usuario cadastra o login e senha onde esse usuario ficará salvo no banco de dados, assim conseguirá logar no sistema.
 
 
